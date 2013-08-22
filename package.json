@@ -1,6 +1,6 @@
 {
   "name": "global",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns a reference to the `global` object",
   "main": "index.js",
   "scripts": {
