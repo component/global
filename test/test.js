@@ -14,10 +14,9 @@ try {
   global = require('../');
 }
 
-describe('global()', function () {
+describe('global', function () {
   it('should return the `global` object', function () {
-    var g = global();
-    var str = String(g);
+    var str = String(global);
     assert('[object global]' == str || '[object Window]' == str);
   });
 });
