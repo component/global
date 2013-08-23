@@ -11,7 +11,9 @@
 
 ## API
 
-
+``` js
+var global = require('global');
+```
 
 ## License
 
