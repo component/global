@@ -17,5 +17,10 @@
   "license": "MIT",
   "devDependencies": {
     "mocha": "*"
+  },
+  "component": {
+    "scripts": {
+      "global/index.js": "index.js"
+    }
   }
 }
