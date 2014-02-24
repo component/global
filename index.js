@@ -5,4 +5,4 @@
  * "global" scope of the current JS execution.
  */
 
-module.exports = (function () { return this; })();
+module.exports = Function('return this')();
