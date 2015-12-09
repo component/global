@@ -1,5 +1,5 @@
 {
-  "name": "global",
+  "name": "component-global",
   "version": "2.0.2",
   "description": "Returns a reference to the `global` object",
   "main": "index.js",
